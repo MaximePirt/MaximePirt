@@ -6,6 +6,11 @@
 - ⛱️ Trying to learn and apply some HTML/CSS and NodeJS when I'm free to improve my skills
 - :scroll: Join me as I unravel the mysteries of programming through my differents project on Github.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="[https://profile-counter.glitch.me/eyJvcy/count.svg](https://github.com/MaximePirt)" />
+</p>
+
 <!---
 MaximePirt/MaximePirt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
